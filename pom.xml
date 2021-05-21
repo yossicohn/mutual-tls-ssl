@@ -71,7 +71,7 @@
         <version.scalatest>3.2.0</version.scalatest>
         <version.scalatest-maven-plugin>2.0.0</version.scalatest-maven-plugin>
         <version.mockito-scala>1.16.0</version.mockito-scala>
-        <version.mockserver>5.11.1</version.mockserver>
+        <version.mockserver>5.11.2</version.mockserver>
         <version.maven-compiler-plugin>3.8.1</version.maven-compiler-plugin>
         <version.maven-shade-plugin>3.2.2</version.maven-shade-plugin>
         <version.scala-maven-plugin>4.3.1</version.scala-maven-plugin>
