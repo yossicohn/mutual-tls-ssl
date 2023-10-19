@@ -35,8 +35,8 @@
         <version.commons-lang3>3.11</version.commons-lang3>
         <version.commons-io>2.8.0</version.commons-io>
         <version.exec-maven-plugin>1.6.0</version.exec-maven-plugin>
-        <version.okhttp>4.9.0</version.okhttp>
-        <version.jetty-reactive-httpclient>1.1.4</version.jetty-reactive-httpclient>
+        <version.okhttp>4.12.0</version.okhttp>
+        <version.jetty-reactive-httpclient>1.1.15</version.jetty-reactive-httpclient>
         <version.jersey1>1.19.4</version.jersey1>
         <version.jersey2>3.0.0-M6</version.jersey2>
         <version.google.http.client>1.36.0</version.google.http.client>
