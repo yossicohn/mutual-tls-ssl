@@ -43,7 +43,7 @@
         <version.unirest>3.11.01</version.unirest>
         <version.retrofit>2.9.0</version.retrofit>
         <version.finagle>20.9.0</version.finagle>
-        <version.akka-http>10.2.1</version.akka-http>
+        <version.akka-http>10.5.3</version.akka-http>
         <version.akka-stream>2.6.10</version.akka-stream>
         <version.dispatch-core>1.2.0</version.dispatch-core>
         <version.scalaj-http>2.4.2</version.scalaj-http>
